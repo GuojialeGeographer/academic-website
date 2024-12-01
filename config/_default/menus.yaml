@@ -5,23 +5,23 @@
 
 main:
   - name: Home
-    url: /
+    url: /#about
     weight: 10
   - name: Publications
-    url: /#papers
-    weight: 11
-  - name: Projects
-    url: /#talks
-    weight: 12
-  - name: Blog
-    url: /#news
-    weight: 13
-  - name: Posts
-    url: experience/
+    url: /#publications
     weight: 20
   - name: Projects
-    url: projects/
+    url: /#projects
     weight: 30
-  - name: Teaching
-    url: teaching/
+  - name: Blogs
+    url: /#blogs
     weight: 40
+  - name: Posts
+    url: /#posts
+    weight: 50
+  - name: Skills
+    url: /#skills
+    weight: 60
+  - name: CV
+    url: files/CV_Jiale GUO.pdf
+    weight: 70    
