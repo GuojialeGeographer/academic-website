@@ -18,13 +18,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "custom"
   name = "Python"
-  description: "70%"
+  description = "70%"
 
 [[feature]]
   icon = "r"
   icon_pack = "customs"
   name = "R"
-  description = "70%"  
+  description = "70%"
 
 [[feature]]
   icon = "ArcGIS Pro"
@@ -37,7 +37,7 @@ subtitle = ""
 #  icon = ":smile:"
 #  icon_pack = "emoji"
 #  name = "Emojiness"
-#  description = "100%"  
+#  description = "100%"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
