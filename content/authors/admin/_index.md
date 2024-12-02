@@ -47,7 +47,7 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - GeoAI in social media analyst
+  - GeoAI in Social Media Analyst
   - Geographical Information Science
   - Geospatial Data Science
 
