@@ -17,27 +17,27 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "BSC"
-  company: Chzu University
-    company_url: 'https://www.chzu.edu.cn/'
-    company_logo: Chzu 
-    location: Chuzhou
-    date_start: '2017-09-01'
-    date_end: '2021-07-01'
-    description: |2-
-        Awards include:
-        * ”Esri” College Students GIS Software Development Competition in China, Third Prize   2022                                                               
-        * GIS Skills Competition for College Students in Anhui Province, Second Prize   2019-2020                                                                    
-        * The 5th China University Geography Science Exhibition Competition, Third Prize     2019                                                                    
-        * Excellent Graduation Thesis of Chuzhou University (Top 3%)   2021                                                                                                       
-        * Excellent Graduates of Ordinary Colleges and Universities in Anhui Province (Top 2%)  2021                                                               
-        * National Encouragement Scholarship, Education Department of Anhui Province (Top 3%)   2020                                                         
-        * Excellent Interns & Internship Works (Top 10%)   2019                                                                                                                              
-        * Academic Excellence Scholarship (Three consecutive years)       2017-2020                                                                                            
-        * Outstanding Student Cadres (Three consecutive years)       2017-2020                                                                             
-
-
+  company = "Chzu University"
+  company_url = "https://www.chzu.edu.cn/"
+  company_logo = "Chzu"
+  location = "Chuzhou"
+  date_start = "2017-09-01"
+  date_end = "2021-07-01"
+  description = """
+  Awards include:
+  * ”Esri” College Students GIS Software Development Competition in China, Third Prize   2022                                                               
+  * GIS Skills Competition for College Students in Anhui Province, Second Prize   2019-2020                                                                    
+  * The 5th China University Geography Science Exhibition Competition, Third Prize     2019                                                                    
+  * Excellent Graduation Thesis of Chuzhou University (Top 3%)   2021                                                                                                       
+  * Excellent Graduates of Ordinary Colleges and Universities in Anhui Province (Top 2%)  2021                                                               
+  * National Encouragement Scholarship, Education Department of Anhui Province (Top 3%)   2020                                                         
+  * Excellent Interns & Internship Works (Top 10%)   2019                                                                                                                              
+  * Academic Excellence Scholarship (Three consecutive years)       2017-2020                                                                                            
+  * Outstanding Student Cadres (Three consecutive years)       2017-2020
+  """
 
 [[experience]]
   title = "MSC"
@@ -46,6 +46,5 @@ date_format = "Jan 2006"
   location = "Milano"
   date_start = "2024-09-16"
   date_end = ""
-  description = """Students"""
-
+  description = "Students"
 +++
