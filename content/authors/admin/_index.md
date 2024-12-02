@@ -51,7 +51,7 @@ interests:
   - Geographical Information Science
   - Geospatial Data Science
 
-education:
+EDUCATION:
   - area: MSc in Geoinformatics Engineering
     institution: Politecnico di Milano
     date_start: 2024-09
@@ -63,18 +63,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc in Geography
+    institution: Chuzhou University
     date_start: 2017-09
     date_end: 2021-06
     summary: |
-      GPA: 84.85/100
+      GPA: 84.85/100; 
+      Ranking: 3/60 (2017 - 2018) ; 8/56 (2018 - 2019) ; 1/56 (2019 - 2020) 
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+WORK EXPERIENCE:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
