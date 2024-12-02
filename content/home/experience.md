@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  title = "BSC"
+  company: Chzu University
+    company_url: 'https://www.chzu.edu.cn/'
+    company_logo: Chzu 
+    location: Chuzhou
+    date_start: '2017-09-01'
+    date_end: '2021-07-01'
+    description: |2-
+        Awards include:
+        * ”Esri” College Students GIS Software Development Competition in China, Third Prize   2022                                                               
+        * GIS Skills Competition for College Students in Anhui Province, Second Prize   2019-2020                                                                    
+        * The 5th China University Geography Science Exhibition Competition, Third Prize     2019                                                                    
+        * Excellent Graduation Thesis of Chuzhou University (Top 3%)   2021                                                                                                       
+        * Excellent Graduates of Ordinary Colleges and Universities in Anhui Province (Top 2%)  2021                                                               
+        * National Encouragement Scholarship, Education Department of Anhui Province (Top 3%)   2020                                                         
+        * Excellent Interns & Internship Works (Top 10%)   2019                                                                                                                              
+        * Academic Excellence Scholarship (Three consecutive years)       2017-2020                                                                                            
+        * Outstanding Student Cadres (Three consecutive years)       2017-2020                                                                             
 
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "MSC"
+  company = "Politecnico di Milano"
+  company_url = "https://www.geoinformatics.polimi.it/"
+  location = "Milano"
+  date_start = "2024-09-16"
+  date_end = ""
+  description = """Students"""
 
 +++
