@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: MSC student in eoinformatics Engineering
+role: MSC Student in Geoinformatics Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -37,6 +37,8 @@ profiles:
     url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/GuojialeGeographer
+  - icon: researchgate
+    url: https://www.researchgate.net/profile/Jiale-Guo-7
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
@@ -181,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+我是意大利米兰理工大学地理信息工程专业的硕士研究生（2024Fall～）。该专业隶属于米兰理工大学工程学院计算机系和土木系的联合硕士项目。
